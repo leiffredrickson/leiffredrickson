@@ -12,11 +12,6 @@ I am an academic historian by training. I recently received my PhD from the Univ
 I use digital mapping software (GIS) for a lot of my research, and more broadly am interested in "digital history" (using data and software to explore historical questions). I was recently a Digital Humanities Fellow at the Scholar's Lab, University of Virginia, and before that was a Carnegie Mellon Fellow in Digital Humanities at the Digital Scholarship Lab, University of Richmond. So this site includes a lot of maps and visualization that I am working on.
 
 But this website is for writing about a lot of things that I am not a specialist in, as well as sundry items of interest to me (and perhaps only me).
-
-I'm from Missoula, Montana. Before going to graduate school, I worked in the Bob Marshall Wilderness for about nine years, where we occasionally had to blow up a horse that died so that grizzlies would not be attracted to it.
-
-![Photo of dead horse covered in explosives]({{site.url}}/images/horse.jpg)
-
 ---
 <br>
 <br>
