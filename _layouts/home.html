@@ -4,8 +4,10 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-  
+  <p>Chewing the cud about history, the environment, social inequality, cities, policy, maps and data.</p>
+
+  <h1 class="page-heading">Recent Posts</h1>
+
   {{ content }}
 
   <ul class="post-list">
@@ -16,11 +18,18 @@ layout: default
 
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          {{ post.excerpt }}
+    </ul>
         </h2>
       </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  <footer class="site-footer">
+    <div class="wrapper">
+      <h2 class="footer-heading">Short Bio</h2>
+      <p>I am an environmental historian, but I write about lots of things here. This is my personal website. Visit my other website, <a href="http://www.enviro-history.com">Enviro-History</a>, for a more polished, public-oriented website about environmental history. For more about me, see the <a href=/about/>About</a> page. </p>
+    </div>
+  </footer>
 
 </div>
