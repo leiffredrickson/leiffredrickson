@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-&quot;[From Ecocide to Eco-ally: Picloram, Herbicidal Warfare, and Invasive Species, 1963-2005](http://www.ingentaconnect.com/content/whp/ge/2014/00000007/00000001/art00008),&quot; in _Global Environment_, vol. 7, no. 1, 2014. [(Download Preprint)]({{site.url}}/docs/fredrickson-ecocide.pdf)  
+&quot;[From Ecocide to Eco-ally: Picloram, Herbicidal Warfare, and Invasive Species, 1963-2005](http://www.ingentaconnect.com/content/whp/ge/2014/00000007/00000001/art00008),&quot; in _Global Environment_, vol. 7, no. 1, 2014. [(Download Preprint)]({{site.github.url}}/docs/fredrickson-ecocide.pdf)  
 my article “From Ecocide to Eco-ally: Picloram, Herbicidal Warfare, and Invasive Species, 1963-2005,” was published in the environmental history journal Global Environment. The article is a history of Picloram, one of the most powerful defoliant used during the Vietnam War, and its relationship to environmentalism. During the war, picloram became a symbol of “eco-cide” – the worst thing that could happen to the environment. But as environmentalists became concerned about invasive plants, they held their noses and embraced it as a technology that could wipe out unwanted plants and restore the “natural” environment. The change in thinking about this pesticide, I argue, revealed latent fault lines in the environmental movement over ecological versus human health and short-term versus long-term problems.
 ---
 ## Mapping, Data Visualization and Digital Humanities
@@ -21,7 +21,7 @@ I authored environmental history sections for three chapters of the _American Ya
 
 <br>
 
-## Full Curriculum Vitae - Leif Fredrickson [(Download)]({{site.url}}/docs/leif-fredrickson-cv.pdf)
+## Full Curriculum Vitae - Leif Fredrickson [(Download)]({{site.github.url}}/docs/leif-fredrickson-cv.pdf)
 
 # Education
 

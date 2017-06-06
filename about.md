@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Leif Fredrickson headshot]({{site.url}}/images/bio.jpg){:height="200px"}
+![Leif Fredrickson headshot]({{site.github.url}}/images/bio.jpg){:height="200px"}
 
 Hello, I'm Leif Fredrickson. This is my personal website, which means it is full of jumbled, undercooked thoughts, unfinished visualizations and, of course, self-promotion. You can visit my other website, [Enviro-History](www.enviro-history.com), for a more polished, public-oriented website about environmental history that includes many authors besides myself.
 
