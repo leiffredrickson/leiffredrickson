@@ -5,25 +5,31 @@ layout: default
 <div class="home">
 
   <p>I am an environmental historian, but I write about lots of things here. This is my personal website. Visit my other website, <a href="http://www.enviro-history.com">Enviro-History</a>, for a more polished, public-oriented website about environmental history.</p>
+  <br>
   <hr>
-  <h1 class="page-heading">Recent Posts</h1>
+  <div style="background-color: #f1fcc9">
+    <h1 class="page-heading">Recent Posts</h1>
 
-  {{ content }}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+    {{ content }}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          {{ post.excerpt }}
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li>
+          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+          <h2>
+            <a class="post-link" style="color:#102f63" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            {{ post.excerpt }}
+      </ul>
+          </h2>
+        </li>
+      {% endfor %}
     </ul>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-  <hr>
+    <hr>
+  </div>
+
+  <br>
 
 </div>
