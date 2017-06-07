@@ -3,13 +3,78 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-&quot;[From Ecocide to Eco-ally: Picloram, Herbicidal Warfare, and Invasive Species, 1963-2005](http://www.ingentaconnect.com/content/whp/ge/2014/00000007/00000001/art00008),&quot; in _Global Environment_, vol. 7, no. 1, 2014. [(Download Preprint)]({{site.github.url}}/docs/fredrickson-ecocide.pdf)  
-my article “From Ecocide to Eco-ally: Picloram, Herbicidal Warfare, and Invasive Species, 1963-2005,” was published in the environmental history journal Global Environment. The article is a history of Picloram, one of the most powerful defoliant used during the Vietnam War, and its relationship to environmentalism. During the war, picloram became a symbol of “eco-cide” – the worst thing that could happen to the environment. But as environmentalists became concerned about invasive plants, they held their noses and embraced it as a technology that could wipe out unwanted plants and restore the “natural” environment. The change in thinking about this pesticide, I argue, revealed latent fault lines in the environmental movement over ecological versus human health and short-term versus long-term problems.
+<br>
+
+---
+## Academic Writing and Research <a id="top"></a>
+
+# Dissertation  
+
+**The Age of Lead: Metropolitan Change, Environmental Health and Inner City Underdevelopment (PhD Dissertation, University of Virginia, 2017)**
+  <blockquote>
+  How the suburbs poisoned the inner city with lead.
+  <details><summary style="color:#A8A8A8">read more...</summary>
+  <br>
+  <p>“The Age of Lead” examines the relationship between metropolitan development and lead poisoning in Baltimore from the late-nineteenth century to the late-twentieth century. In particular, I trace how concerns about environmental health in the city fostered the desire for suburban living, but how suburbanization deepened and even caused disparities in lead hazards between the suburbs and the inner city.</p>
+  <p>More broadly, the dissertation explores how people made decisions about the costs and benefits of metropolitan development and technological change. It is about who had the power to make or influence these decisions and who benefited from those decisions and who was hurt by them. It is also about knowledge: what people knew about environmental disparities, what they did not know, and how and why they came to have knowledge or ignorance of issues.</p>
+    <p>Table of Contents</p>
+    <ol>
+      <li>Lead and Industrialization in the Monumental City</li>
+      <li>The Depression Disease: Suburban Expansion, Energy Inequality, and America’s First Child Lead Poisoning Epidemic</li>
+      <li>The Rise of Child Lead Paint Poisoning: Medical Knowledge and the Metropolitan Ecology of Paint</li>
+      <li>White Lead and White Flight: Suburbanization, Inner City Lead Paint Hazards, and Slumlord Capitalism in Baltimore</li>
+      <li>Healthy Housing and the Health of the State: Clearance, Codes and the Struggle to Eliminate Lead Paint Poisoning</li>
+      <li>The Gas That Makes the Hills in High Gear: Tetraethyl Lead, Automobile Pollution, and the Co-Production of Urban and Suburban Environments</li>
+      <li>The Poisonous Umbilical Cord: Leaded Gasoline and the Commuter-Polluter Suburbs</li>
+      <li>Expressway Solutions and Freeway Failures: Automobile Pollution, Housing Deterioration and Interstate Protests</li>
+      <li>Metropolitan Ecology and Exposure: Lead Hazards in Twentieth-Century Baltimore</li>
+      <li>Toxic Consequences: Lead Effects in Twentieth-Century Baltimore</li>
+    </ol>
+
+  </details></blockquote>
+
+# Articles and Chapters
+
+**&quot;[The Rise and Fall of an Ecostar: Green Technology Innovation and Marketing as Regulatory Obstruction](http://www.upenn.edu/pennpress/book/15648.html),&quot; _Green Capitalism? Exploring the Crossroads of Environmental and Business History_, Hartmut Berghoff and Adam Rome , eds. (University of Pennsylvania Press, 2017).**
+<blockquote>
+How Ford invested in electric cars so that it would not have to sell electric cars.
+
+<details><summary style="color:#A8A8A8">read more...</summary>
+<br>
+In the 1990s, the Ford Motor Company pursued electric vehicle technology and testing as a way to establish itself as an authority on the technology so that it could fight against California's Zero Emission Vehicle policy that required automobile companies to produce and sell electric vehicles.
+</details></blockquote>
+
+**&quot;[Bio-Invasions and Bio-Fixes: Mysid Shrimp Introductions in the Twentieth Century](http://www.ingentaconnect.com/content/whp/eh/2017/00000023/00000002/art00007),&quot; _Environment and History_ vol. 23, no.2, 2017.**
+  <blockquote>
+  How natural resource managers tried to use the mysis shrimp to "fix" fisheries, spreading this relatively isolated species to hundreds of lakes where it became an "invasive" species.
+
+  <details><summary style="color:#A8A8A8">read more...</summary>
+  <br>
+
+  Natural research managers, flummoxed by their inability to find a “techno-fix” – a cheap, simple solution to a complex issue – to the problem of fish productivity, discovered a “bio-fix” in a small, wild shrimp that they believed could yield record-breaking trout and salmon for sportfishers. Like techno-fixes, however, this fix had unintended – though not unforeseeable – consequences. In many cases, it completely destroyed the fisheries it was intended to bolster.
+
+  </details></blockquote>
+
+**&quot;[From Ecocide to Eco-ally: Picloram, Herbicidal Warfare, and Invasive Species, 1963-2005](http://www.ingentaconnect.com/content/whp/ge/2014/00000007/00000001/art00008),&quot; _Global Environment_, vol. 7, no. 1, 2014.** [(Download Preprint)]({{site.github.url}}/docs/fredrickson-ecocide.pdf)  
+  <blockquote>
+  How environmentalists came to embrace picloram, a pesticide that had once been the foremost candidate for destroying the earth.
+
+  <details><summary style="color:#A8A8A8">read more...</summary>
+  <br>
+
+  This article is a history of picloram, one of the most powerful defoliants used during the Vietnam War, and its relationship to environmentalism. During the war, picloram became a symbol of “ecocide” – the worst thing that could happen to the environment. But as environmentalists became concerned about invasive plants, they held their noses and embraced it as a technology that could wipe out unwanted plants and restore the “natural” environment. The change in thinking about this pesticide, I argue, revealed latent fault lines in the environmental movement over ecological versus human health and short-term versus long-term problems.
+
+  </details>
+  </blockquote>
+
+<br>
+<br>
+
 ---
 ## Mapping, Data Visualization and Digital Humanities
 
-**People of the Founding Era**    
-I directed the construction of a geographic database for [People of the Founding Era](http://pfe.rotunda.upress.virginia.edu/), a digital humanities project run by the Virginia Foundation for the Humanities about the social world in the United States in the decades surrounding the American Revolution.
+**American Panorama**
+
 
 **American Yawp**     
 I authored environmental history sections for three chapters of the _American Yawp_, an online, open-source, and subsequently award-winning, U.S. history textbook.
@@ -17,11 +82,18 @@ I authored environmental history sections for three chapters of the _American Ya
 * Chapter 29 - [The Triumph of the Right](http://www.americanyawp.com/text/29-the-triumph-of-the-right/)
 * Chapter 30 - [The Recent Past](http://www.americanyawp.com/text/30-the-recent-past/)
 
----
+**People of the Founding Era**    
+I directed the construction of a geographic database for [People of the Founding Era](http://pfe.rotunda.upress.virginia.edu/), a digital humanities project run by the Virginia Foundation for the Humanities about the social world in the United States in the decades surrounding the American Revolution.
 
 <br>
+<br>
 
-## Full Curriculum Vitae - Leif Fredrickson [(Download)]({{site.github.url}}/docs/leif-fredrickson-cv.pdf)
+---
+
+
+## Full Curriculum Vitae
+
+[(Download Full C.V.)]({{site.github.url}}/docs/leif-fredrickson-cv.pdf)
 
 # Education
 
@@ -43,7 +115,7 @@ The Age of Lead: Metropolitan Change, Environmental Health, and Inner City Under
 
 &quot;[From Ecocide to Eco-ally: Picloram, Herbicidal Warfare, and Invasive Species, 1963-2005](http://www.ingentaconnect.com/content/whp/ge/2014/00000007/00000001/art00008),&quot; in _Global Environment_, vol. 7, no. 1, 2014.
 
-&quot;Bio-Invasions and Bio-Fixes: Mysid Shrimp Introductions in the Twentieth Century,&quot; _Environment and History_ vol. 23, no.2, 2017.
+&quot;[Bio-Invasions and Bio-Fixes: Mysid Shrimp Introductions in the Twentieth Century](http://www.ingentaconnect.com/content/whp/eh/2017/00000023/00000002/art00007),&quot; _Environment and History_ vol. 23, no.2, 2017.
 
 # Book Chapters
 
@@ -198,3 +270,10 @@ Historical Ecology Researcher, Earth Restoration Project, University of Montana,
 Manuscript Reviewer: MIT Press (Urban and Industrial Environments Series)
 
 Coordinator: Environmental History Lab, 2013-2014
+<br>
+<br>
+
+---
+
+
+[Back to top of page](#top)

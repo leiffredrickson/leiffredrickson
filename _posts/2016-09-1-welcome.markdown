@@ -1,30 +1,30 @@
 ---
 layout: post
-title:  "Welcome"
+title:  "Hello There"
 date:   2016-09-01 20:32:26 -0400
 categories: academia
 excerpt:  <img src="images/welcome-small.jpg" style="width:368px; height:auto">
 ---
-![Image of abandoned sign covered in ivy with the phrase welcome on it]({{site.github.url}}/images/welcome-cropped.jpg){: width="700px"; height:"auto"}
+![Image of abandoned sign covered in ivy with the phrase welcome on it]({{site.github.url}}/images/welcome-cropped.jpg){: width="700px"; height="auto"}
 {:.image-caption}
 *Rockfish Gap, Shenandoah Mountains, Virginia. Leif Fredrickson.*
 
-### Thanks for visiting!
+Welcome!
 
-You can read about the basic purpose of this site [here](/about/), and I give an overview of my research [here](/projects/).
+You can read about this site [here](/about/), and details about my research and projects [here](/projects/).
 
 In case you'd like a more personal introduction:
 
 I'm from Missoula, Montana. My parents were public school teachers.
 
-I attended Hellgate High School (really), where I was into punk rock, soccer and tennis.
+I attended Hellgate High School (really). I played soccer and tennis and sang in a hardcore [punk band](https://www.youtube.com/watch?v=GPa9DlqiOZQ).
 
-I studied cognitive science in undergrad at Vassar College, taking not a single history class. But I obviously changed my mind on that later. I met my wife at Vassar; she is awesome.
+I studied cognitive science as an undergraduate at Vassar College. I didn't take a single history class. But obviously I changed my mind on that later. I met my wife at Vassar. She is awesome.
 
-After Vassar, I returned to Montana where I worked in a variety of jobs for eight years before returning to school. I was a [hooker](https://www.youtube.com/watch?v=9RhC1tESkRU), and I had a part-time horseshoeing business. I worked for nine seasons in Bob Marshall Wilderness. In that job, we occasionally had to blow up a horse that died in the backcountry so that grizzlies would not be attracted to it. Turns out a lot of labor goes into making wilderness areas work.
+After Vassar, I returned to Montana where I worked at various jobs for eight years before returning to school. I was a [hooker](https://www.youtube.com/watch?v=9RhC1tESkRU), entered data about textbooks, built homes (including my own), and I had a part-time horseshoeing business. My main gig was working in the Bob Marshall Wilderness, which I did for nine seasons. In that job, we occasionally had to blow up a horse that died in the backcountry so that grizzlies would not be attracted to it. Turns out a lot of labor goes into making wilderness areas work.
 
 I love academics, but it's just part of my life.
 
-![Photo of dead horse covered in explosives]({{site.github.url}}/images/horse.jpg){: width="700px"; height:"auto"}
+![Photo of dead horse covered in explosives]({{site.github.url}}/images/horse.jpg){: width="700px"; height="auto"}
 {:.image-caption}
 *Monture Roadless Area, Ovando, Montana. Leif Fredrickson.*
