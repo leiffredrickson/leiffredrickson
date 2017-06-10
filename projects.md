@@ -3,14 +3,16 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<br>
+<p style="color:darkred">&#42;If you would like access to any of the material listed below, email me, I may be able to help you out.</p>
+
 
 ---
 ## Academic Writing and Research <a id="top"></a>
 
+
 # Dissertation  
 
-**The Age of Lead: Metropolitan Change, Environmental Health and Inner City Underdevelopment (PhD Dissertation, University of Virginia, 2017)**
+**&quot;The Age of Lead: Metropolitan Change, Environmental Health and Inner City Underdevelopment&quot;** (PhD Dissertation, University of Virginia, 2017)
   <blockquote>
   How the suburbs poisoned the inner city with lead.
   <details><summary style="color:#A8A8A8">read more...</summary>
@@ -35,16 +37,32 @@ permalink: /projects/
 
 # Articles and Chapters
 
-**&quot;[The Rise and Fall of an Ecostar: Green Technology Innovation and Marketing as Regulatory Obstruction](http://www.upenn.edu/pennpress/book/15648.html),&quot; _Green Capitalism? Exploring the Crossroads of Environmental and Business History_, Hartmut Berghoff and Adam Rome , eds. (University of Pennsylvania Press, 2017).**
-<blockquote>
-How Ford invested in electric cars so that it would not have to sell electric cars.
+**&quot;The Riot Environment: Sanitation, Recreation and Pacification in the Wake of Baltimore&#39;s 1968 Uprising,&quot;**  _Baltimore Revisited: Rethinking and Remaking an American City_, Nicole King and Kate Drabinski, eds. (forthcoming from Rutgers University Press).
+  <blockquote>
 
-<details><summary style="color:#A8A8A8">read more...</summary>
-<br>
-In the 1990s, the Ford Motor Company pursued electric vehicle technology and testing as a way to establish itself as an authority on the technology so that it could fight against California's Zero Emission Vehicle policy that required automobile companies to produce and sell electric vehicles.
-</details></blockquote>
+  How the city of Baltimore and the Department of Defense tried to change the environment of inner city youth in order to avert urban civil disturbances after the 1968 uprising in Baltimore.
 
-**&quot;[Bio-Invasions and Bio-Fixes: Mysid Shrimp Introductions in the Twentieth Century](http://www.ingentaconnect.com/content/whp/eh/2017/00000023/00000002/art00007),&quot; _Environment and History_ vol. 23, no.2, 2017.**
+  <details><summary style="color:#A8A8A8">read more...</summary>
+  <br>
+
+  This chapter focuses on programs put in place after the 1968 uprising in Baltimore that were related to the inner city environment. Some of these programs were about cleaning up that environment and providing better recreation. Others were about taking children out of the inner city to experience a better environment. Camp Concern, which brought children to a Navy Base for the summer, was an example of the latter. It was the brainchild of black community leaders, but was also promoted by the Department of Defense as part of a larger program of domestic pacification. There were deep tensions in these and otehr programs between the rationale of providing quality environments for social justice and the rationale of providing these programs for social control.
+
+  </details></blockquote>
+
+**&quot;The Rise and Fall of an Ecostar: Green Technology Innovation and Marketing as Regulatory Obstruction,&quot;** _Green Capitalism? Exploring the Crossroads of Environmental and Business History_, Hartmut Berghoff and Adam Rome , eds. (University of Pennsylvania Press, 2017).  
+[(External Link - Publisher)](http://www.upenn.edu/pennpress/book/15648.html)
+  <blockquote>
+  How Ford invested in electric cars so that it would not have to sell electric cars.
+
+  <details><summary style="color:#A8A8A8">read more...</summary>
+  <br>
+
+  In the 1990s, the Ford Motor Company pursued electric vehicle technology and testing as a way to establish itself as an authority on the technology so that it could fight against California's Zero Emission Vehicle policy that required automobile companies to produce and sell electric vehicles.
+
+  </details></blockquote>
+
+**&quot;Bio-Invasions and Bio-Fixes: Mysid Shrimp Introductions in the Twentieth Century,&quot;** _Environment and History_ vol. 23, no.2, 2017.  
+[(External Link - Paywall)](http://www.ingentaconnect.com/content/whp/eh/2017/00000023/00000002/art00007)
   <blockquote>
   How natural resource managers tried to use the mysis shrimp to "fix" fisheries, spreading this relatively isolated species to hundreds of lakes where it became an "invasive" species.
 
@@ -55,7 +73,8 @@ In the 1990s, the Ford Motor Company pursued electric vehicle technology and tes
 
   </details></blockquote>
 
-**&quot;[From Ecocide to Eco-ally: Picloram, Herbicidal Warfare, and Invasive Species, 1963-2005](http://www.ingentaconnect.com/content/whp/ge/2014/00000007/00000001/art00008),&quot; _Global Environment_, vol. 7, no. 1, 2014.** [(Download Preprint)]({{site.github.url}}/docs/fredrickson-ecocide.pdf)  
+**&quot;From Ecocide to Eco-ally: Picloram, Herbicidal Warfare, and Invasive Species, 1963-2005,&quot;** _Global Environment_, vol. 7, no. 1, 2014.  
+[(External Link - Paywall)](http://www.ingentaconnect.com/content/whp/ge/2014/00000007/00000001/art00008) [(Download Preprint)]({{site.github.url}}/docs/fredrickson-ecocide.pdf)  
   <blockquote>
   How environmentalists came to embrace picloram, a pesticide that had once been the foremost candidate for destroying the earth.
 
@@ -69,12 +88,14 @@ In the 1990s, the Ford Motor Company pursued electric vehicle technology and tes
 
 <br>
 <br>
+[Back to top of page](#top)
 
 ---
 ## Mapping, Data Visualization and Digital Humanities
 
 **American Panorama**
 
+From 2015 to 2016, I held a fellowship from the Mellon Foundation to help the University of Richmond's Digital Scholarship Lab produce ideas for the online digital atlas, [American Panorama](https://dsl.richmond.edu/panorama). With fellow Brent Cebul, I worked on conceptualizing and finding data for maps of urban renewal, public housing and highway building. These maps are still forthcoming. The extant American Panorama maps are amazing and award-winning.
 
 **American Yawp**     
 I authored environmental history sections for three chapters of the _American Yawp_, an online, open-source, and subsequently award-winning, U.S. history textbook.
@@ -87,6 +108,7 @@ I directed the construction of a geographic database for [People of the Founding
 
 <br>
 <br>
+[Back to top of page](#top)
 
 ---
 
@@ -191,9 +213,9 @@ Native American History; History of American Energy and Power; Colonial Latin Am
 
 # Digital Humanities Projects
 
-Creator and Developer, [Enviro-History](www.enviro-history.com)
+Creator and Developer, [Enviro-History](http://www.enviro-history.com)
 
-Project Developer, [American Panorama](http:www.dsl.richmond.edu/panorama), Digital Scholarship Lab, University of Richmond (2015-2016)
+Project Developer, [American Panorama](https://dsl.richmond.edu/panorama), Digital Scholarship Lab, University of Richmond (2015-2016)
 
 Environmental history author for the [American Yawp](http://www.americanyawp.com/index.html) (2013-2014)
 
@@ -205,15 +227,15 @@ Project Manager, Geographic Database, [People of the Founding Era](http://pfe.ro
 
 &quot;[The Environment of Opportunity](http://firstyear2017.org/blog/the-environment-of-opportunity),&quot; _First Year 2017: Where the Next President Begins, Volume 6, Miller Center of Public Affairs_, November 30, 2016
 
-&quot;[Lead Poisoning: Then and Now](http:www.werehistory.org/lead),&quot; _We&#39;re History_, March 29, 2016
+&quot;[Lead Poisoning: Then and Now](http://www.werehistory.org/lead),&quot; _We&#39;re History_, March 29, 2016
 
-&quot;[The &#39;Depression Disease&#39;: What the United States&#39; First National Lead Poisoning Crisis Can Teach Us about the Flint Water Disaster](http:www.blog.historians.org/2016/03/the-depression-disease-what-the-united-states-first-national-lead-poisoning-crisis-can-teach-us-about-the-flint-water-disaster),&quot; _American Historical Association Today_, March 14, 2016
+&quot;[The &#39;Depression Disease&#39;: What the United States&#39; First National Lead Poisoning Crisis Can Teach Us about the Flint Water Disaster](http://blog.historians.org/2016/03/the-depression-disease-what-the-united-states-first-national-lead-poisoning-crisis-can-teach-us-about-the-flint-water-disaster),&quot; _American Historical Association Today_, March 14, 2016
 
- &quot;[The Surprising Link Between Postwar Suburban Development and Today&#39;s Inner-city Lead Poisoning](http:www.theconversation.com/the-surprising-link-between-postwar-suburban-development-and-todays-inner-city-lead-poisoning-54453),&quot; _The Conversation_, February 25, 2016
+ &quot;[The Surprising Link Between Postwar Suburban Development and Today&#39;s Inner-city Lead Poisoning](http://www.theconversation.com/the-surprising-link-between-postwar-suburban-development-and-todays-inner-city-lead-poisoning-54453),&quot; _The Conversation_, February 25, 2016
 
- &quot;[Urban Policy – Lessons from History](http:www.iasc-culture.org/THR/channels/Common\_Place/2014/11/urban-policy-part-3-lessons-from-history),&quot; _Common Place: The Anatomy and Art of Thriving Communities_, November 14, 2014
+ &quot;[Urban Policy – Lessons from History](http://www.iasc-culture.org/THR/channels/Common\_Place/2014/11/urban-policy-part-3-lessons-from-history),&quot; _Common Place: The Anatomy and Art of Thriving Communities_, November 14, 2014
 
-&quot;The Aliens Are Coming! Strange mussels, fish, plants, and diseases – and their clueless human helpers – could decimate Montana waters,&quot; cover feature, _Missoula Independent_, April 21, 2011.
+&quot;[The Aliens Are Coming! Strange mussels, fish, plants, and diseases – and their clueless human helpers – could decimate Montana waters](https://missoulanews.bigskypress.com/missoula/the-aliens-are-coming/Content?oid=1432982),&quot; cover feature, _Missoula Independent_, April 21, 2011.
 
 # Book Reviews
 
@@ -270,10 +292,9 @@ Historical Ecology Researcher, Earth Restoration Project, University of Montana,
 Manuscript Reviewer: MIT Press (Urban and Industrial Environments Series)
 
 Coordinator: Environmental History Lab, 2013-2014
+
 <br>
 <br>
+[Back to top of page](#top)
 
 ---
-
-
-[Back to top of page](#top)

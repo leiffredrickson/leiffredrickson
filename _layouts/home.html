@@ -3,11 +3,13 @@ layout: default
 ---
 
 <div class="home">
-
-  <p>I am an environmental historian, but I write about lots of things here. This is my personal website. Visit my (forthcoming) website, <a href="http://www.enviro-history.com">Enviro-History</a>, for a more polished, public-oriented website about environmental history.</p>
+  <div style="background-color: #E9D4D7">
+  <hr style="color:#B3C8B3; background-color:#B3C8B3; border: solid 0px #B3C8B3;height:3px">
+  <p style="padding-left:15px; padding-right:8px">I am an environmental historian, but I write about lots of things here. This is my personal website. Check out my (forthcoming) website, <a href="http://www.enviro-history.com">Enviro-History</a>, for a more polished, public-oriented website about environmental history.</p>
+  <hr style="color:#B3C8B3; background-color:#B3C8B3; border: solid 0px #B3C8B3;height:1px">
+  </div>
   <br>
-  <hr>
-  <div style="background-color: #e8f4eb">
+  <div>
     <h1 class="page-heading">Recent Posts</h1>
 
 
@@ -20,14 +22,13 @@ layout: default
           <span class="post-meta">{{ post.date | date: date_format }}</span>
 
           <h2>
-            <a class="post-link" style="color:#102f63" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-            {{ post.excerpt }}
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            <p style="font-size:16px">{{ post.excerpt }}</p>
       </ul>
           </h2>
         </li>
       {% endfor %}
     </ul>
-    <hr>
   </div>
 
   <br>
