@@ -2,7 +2,7 @@
 layout: post
 title:  Suburbanization and Inner City Lead Poisoning
 date:   2016-03-01 12:00:00 -0400
-categories: lead; metropolitan; housing; transportation; race
+categories:
 excerpt: The United States has heavily subsidized suburban home ownership for more than 80 years. This policy helped many Americans, but hurt others, including families still trapped in homes where they are at risk of lead poisoning. Today, as many observers hail a U.S. urban renaissance, the persistence of lead poisoning highlights a continuing need for more investment in housing and health in our inner cities.
 ---
 

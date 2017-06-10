@@ -2,7 +2,7 @@
 layout: post
 title:  The Next President Should Try to Eliminate Child Lead Poisoning
 date:   2016-11-30 12:00:00 -0400
-categories: lead; policy
+categories:
 excerpt: The incoming President should fix public health surveillance problems and expand funding to eliminate lead hazards.
 ---
 

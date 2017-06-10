@@ -2,7 +2,7 @@
 layout: post
 title:  Melrose Easter's Hunch
 date:   2016-03-29 12:00:00 -0400
-categories: lead; race; experts
+categories:
 excerpt: The story of a layman who helped discover the cause of the first child lead poisoning epidemic, and how his contribution was almost completely lost to history.
 ---
 
