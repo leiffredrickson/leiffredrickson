@@ -3,7 +3,7 @@ layout: post
 title:  Scott Pruitt and EPA Originalism
 date:   2017-07-28 12:00:00 -0400
 categories:
-excerpt: The new Environmental Protection Agency administrator, Scott Pruitt, has called for a "back-to-basics" approach to agency, or what he calls EPA "originalism" In articles in this month in the <i>Washington Post</i> and <i>The Guardian</i>, I explain why Pruitt's position, which implicitly says something about the EPA's history, is flat-out wrong. <br> <img src="images/ruckelshaus-crop.jpg" style="width:700px; height:auto">
+excerpt: The new Environmental Protection Agency administrator, Scott Pruitt, has called for a "back-to-basics" approach to agency, or what he calls EPA "originalism." In articles this month in the <i>Washington Post</i> and <i>The Guardian</i>, I explain why Pruitt's position, which implicitly says something about the EPA's history, is flat-out wrong. <br> <img src="images/ruckelshaus-crop.jpg" style="width:700px; height:auto">
 ---
 
 ""[Scott Pruitt Is Wrong About the Origins of the EPA](https://www.washingtonpost.com/news/made-by-history/wp/2017/07/14/scott-pruitt-is-wrong-about-the-origins-of-the-epa/?utm_term=.308380084cec)," _Washington Post_, July 14, 2017.  
