@@ -3,7 +3,7 @@ layout: post
 title:  Suburban Commuters, Urban Polluters
 date:   2017-03-15 12:00:00 -0400
 categories:
-excerpt: One of the most profound stories of environmental injustice in the twentieth century emerged out of the interactions of two great migrations—the migration of rural African Americans to cities and the movement to the suburbs—and one transformative technology&#58; the automobile. <br> <img src="images/new-orleans-mielke-crop.jpg" style="width:700px; height:auto">
+excerpt: One of the most profound stories of environmental injustice in the twentieth century emerged out of the interactions of two great migrations—the migration of rural African Americans to cities and the movement to the suburbs—and one transformative technology&#58; the automobile. Published in <i>Edge Effects</i>.<br> <img src="images/new-orleans-mielke-crop.jpg" style="width:700px; height:auto">
 ---
 <p style="font-style:italic">(I originally published this article on the Edge Effects blog. The original is <a href="http://edgeeffects.net/commuters/">here</a>. It was also reprinted on the Network in Canadian History and the Environment site, <a href="http://niche-canada.org/2017/03/22/suburban-commuters-urban-polluters/">here).</a> I have added and changed a few of the images.</p>
 
