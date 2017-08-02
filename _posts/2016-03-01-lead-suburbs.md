@@ -3,10 +3,10 @@ layout: post
 title:  Suburbanization and Inner City Lead Poisoning
 date:   2016-03-01 12:00:00 -0400
 categories:
-excerpt: The United States has heavily subsidized suburban home ownership for more than 80 years. This policy helped many Americans, but hurt others, including families still trapped in homes where they are at risk of lead poisoning. Today, as many observers hail a U.S. urban renaissance, the persistence of lead poisoning highlights a continuing need for more investment in housing and health in our inner cities.
+excerpt: The United States has heavily subsidized suburban home ownership for more than 80 years. This policy helped many Americans, but hurt others, including families still trapped in homes where they are at risk of lead poisoning. Today, as many observers hail a U.S. urban renaissance, the persistence of lead poisoning highlights a continuing need for more investment in housing and health in our inner cities. Published in <i>The Conversation</i> and <i>The Ecologist</i>.
 ---
 
-<p style="font-style:italic">(I originally published this article on <a href="http://theconversation.com">The Conversation</a>. The original is <a href="https://theconversation.com/the-surprising-link-between-postwar-suburban-development-and-todays-inner-city-lead-poisoning-54453">here</a>.)</p>
+<p style="font-style:italic">(I originally published this article in The Conversation. The original is <a href="https://theconversation.com/the-surprising-link-between-postwar-suburban-development-and-todays-inner-city-lead-poisoning-54453">here</a>. The Ecologist reprinted it as "<a href="http://www.theecologist.org/essays/2987362/racist_housing_how_postwar_suburban_development_led_to_todays_innercity_lead_poisoning.html">Racist housing? How postwar suburban development led to today's inner-city lead poisoning</a>")</p>
   <figure>
     <img src="https://cdn.theconversation.com/files/112817/width754/image-20160224-21372-6e6zqk.jpg" alt="Image 20160224 21372 6e6zqk" />
       <figcaption>
