@@ -221,7 +221,13 @@ Environmental history author for the [American Yawp](http://www.americanyawp.com
 
 Project Manager, Geographic Database, [People of the Founding Era](http://pfe.rotunda.upress.virginia.edu/), Documents Compass, Virginia Endowment for the Humanities (2012)
 
-# Public Writing - Analysis, Opinion, Reporting
+# Public Writing <a id="Public-Writing"></a>
+
+&quot;[The Federal Agency that Few Americans Have Heard of and Which We All Should Need to Know](https://www.washingtonpost.com/news/made-by-history/wp/2017/09/28/the-federal-agency-that-few-americans-have-heard-of-and-which-we-all-need-to-know),&quot; _Washington Post_, September 28, 2017
+
+&quot;[The Environmental Protection Agency Is Not the Nation's Janitor](https://www.theguardian.com/commentisfree/2017/jul/28/environmental-protection-agency-nations-janitor-scott-pruitt),&quot; _The Guardian_, July 28, 2017
+
+&quot;[Scott Pruitt Is Wrong About the Origins of the EPA](https://www.washingtonpost.com/news/made-by-history/wp/2017/07/14/scott-pruitt-is-wrong-about-the-origins-of-the-epa/?utm_term=.308380084cec),&quot; _Washington Post_, July 14, 2017
 
 &quot;[Suburban Commuters, Urban Polluters](http://edgeeffects.net/commuters/),&quot; _Edge Effects_, March 14, 2017
 
@@ -235,11 +241,11 @@ Project Manager, Geographic Database, [People of the Founding Era](http://pfe.ro
 
  &quot;[Urban Policy – Lessons from History](http://www.iasc-culture.org/THR/channels/Common\_Place/2014/11/urban-policy-part-3-lessons-from-history),&quot; _Common Place: The Anatomy and Art of Thriving Communities_, November 14, 2014
 
-&quot;[The Aliens Are Coming! Strange mussels, fish, plants, and diseases – and their clueless human helpers – could decimate Montana waters](https://missoulanews.bigskypress.com/missoula/the-aliens-are-coming/Content?oid=1432982),&quot; cover feature, _Missoula Independent_, April 21, 2011.
+&quot;[The Aliens Are Coming! Strange mussels, fish, plants, and diseases – and their clueless human helpers – could decimate Montana waters](https://missoulanews.bigskypress.com/missoula/the-aliens-are-coming/Content?oid=1432982),&quot; (cover feature) _Missoula Independent_, April 21, 2011.
 
 # Book Reviews
 
- Keith Wailoo, [Review](http://www.jstor.org/stable/10.5323/jafriamerhist.99.4.0484?seq=1#page_scan_tab_contents) of _How Cancer Crossed the Color Line_, _Journal of African-American History_, vol. 99, no. 4, Fall 2014, 484-486.
+[Review](http://www.jstor.org/stable/10.5323/jafriamerhist.99.4.0484?seq=1#page_scan_tab_contents) of Keith Wailoo's _How Cancer Crossed the Color Line_ in the _Journal of African-American History_, vol. 99, no. 4, Fall 2014, 484-486.
 
 # Invited Talks
 
@@ -281,11 +287,13 @@ Project Manager, Geographic Database, [People of the Founding Era](http://pfe.ro
 
  &quot;Mindscapes and Brainscapes: Environmental History and Psychology,&quot; American Society for Environmental History (2016)
 
-# Research Work Experience
+# Professional Experience
 
 Researcher and Lecture Writer, Clay Endowment Project on Global History of Energy and Power, with Professor Edmund Russell, 2012
 
 Historical Ecology Researcher, Earth Restoration Project, University of Montana, 2008-2009
+
+Member and Contributor, [Environmental Data and Governance Initiative](https://envirodatagov.org/about/members/), 2017-Present
 
 # Service
 
