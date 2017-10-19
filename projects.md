@@ -111,7 +111,17 @@ I directed the construction of a geographic database for [People of the Founding
 [Back to top of page](#top)
 
 ---
+## Professional
 
+**Environmental Data and Governance Initiative**
+
+Since May, 2017 I have been involved with the [EDGI](https://envirodatagov.org/about/), a cross-disciplinary group of volunteers tracking and analyzing threats to federal environmental policies and programs, and the scientific research and data that underpin those policies and programs. I work with the Capacity & Governance Working Group. I have contributed to a report on environmental justice under the Trump administration -- ["Pursuing a Toxic Agenda"](https://envirodatagov.org/publication/pursuing-toxic-agenda/) -- and am the lead author on an article that compares the current administration's assault on environmental health protections to the Reagan and George W. Bush administrations. 
+
+<br>
+<br>
+[Back to top of page](#top)
+
+---
 
 ## Full Curriculum Vitae
 
