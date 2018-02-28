@@ -37,6 +37,19 @@ permalink: /projects/
 
 # Articles and Chapters
 
+**&quot;Paving the Way for Trump: Past Presidential Assaults on Environmental Health Protection,&quot;**  _American Journal of Public Health_, (forthcoming). By Leif Fredrickson, Christopher Sellers, Phil Brown, Jennifer Liss Ohayon, Nicholas Shapiro, Marianne Sullivan, Chris Amoss, Stephen Bocking, Vanessa De La Rosa, Lindsey Dillon, Jill Harrison, Sara Johns, Katherine Kulik, Rebecca Lave, Emily Marquez, Michelle Murphy, Liza Piper, Lauren Richter, Sara Wylie, the [Environmental Data & Governance Initiative](https://envirodatagov.org/about/)
+
+  <blockquote>
+
+  The Trump administration's assault on environmental health protection is in some ways unparalleled, but it is not without some historical precedents. In particular, the current administration has combined strategies for undermining environmental health from the Reagan and George W. Bush administrations. The current political context is, however, different in ways that are deeply concerning, but in some cases also offer some reasons for hope.
+
+  <details><summary style="color:#A8A8A8">read more...</summary>
+  <br>
+
+    The Trump administration has undertaken an assault on the Environmental Protection Agency (EPA), an agency critical to environmental health. This assault has precedents in the administrations of Ronald Reagan and George W. Bush.  The early Reagan administration (1981-1983) launched an overt attack on the EPA, combining deregulation with budget and staff cuts, while the George W. Bush administration (2001-2008) adopted a subtler approach, undermining science-based policy. The current administration combines both these strategies. It also operates in a political context more favorable to the new administration’s designs on this agency. The Republican Party has shifted to the right, and now controls the executive and both chambers of Congress. Wealthy donors, think tanks, and fossil fuel and chemical industries have become more influential in pushing deregulation. Among the public, political polarization has increased, the environment has become a partisan issue, and large sections of the public distrust science and the mainstream media. For these reasons, the effects of today’s ongoing regulatory delays, rollbacks, and staff cuts may well surpass those of the administrations of Reagan and George W. Bush, whose impacts on environmental health were considerable.
+
+  </details></blockquote>
+
 **&quot;The Riot Environment: Sanitation, Recreation and Pacification in the Wake of Baltimore&#39;s 1968 Uprising,&quot;**  _Baltimore Revisited: Rethinking and Remaking an American City_, Nicole King and Kate Drabinski, eds. (forthcoming from Rutgers University Press).
   <blockquote>
 
@@ -115,7 +128,7 @@ I directed the construction of a geographic database for [People of the Founding
 
 **Environmental Data and Governance Initiative**
 
-Since May, 2017 I have been involved with the [EDGI](https://envirodatagov.org/about/), a cross-disciplinary group of volunteers tracking and analyzing threats to federal environmental policies and programs, and the scientific research and data that underpin those policies and programs. I work with the Capacity & Governance Working Group. I have contributed to a report on environmental justice under the Trump administration -- ["Pursuing a Toxic Agenda"](https://envirodatagov.org/publication/pursuing-toxic-agenda/) -- and am the lead author on an article that compares the current administration's assault on environmental health protections to the Reagan and George W. Bush administrations. 
+Since May, 2017 I have been involved with the [EDGI](https://envirodatagov.org/about/), a cross-disciplinary group of volunteers tracking and analyzing threats to federal environmental policies and programs, and the scientific research and data that underpin those policies and programs. I work with the Capacity & Governance Working Group. I have contributed to a report on environmental justice under the Trump administration -- ["Pursuing a Toxic Agenda"](https://envirodatagov.org/publication/pursuing-toxic-agenda/) -- and am the lead author on an article that compares the current administration's assault on environmental health protections to the Reagan and George W. Bush administrations.
 
 <br>
 <br>
