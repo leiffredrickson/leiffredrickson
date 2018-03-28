@@ -3,7 +3,7 @@ layout: post
 title:  National Distinguished Dissertation Award in Humanities and the Fine Arts
 date:   2017-12-15 12:00:00 -0400
 categories:
-excerpt: I was recently honored to receive the award from the Council of Graduate Schools/ProQuest for the distinguished dissertation in Humanities and the Fine Arts. Here is the write up from my alma mater -- <a href=https://www.news.virginia.edu/content/history-grad-student-writes-nations-top-humanities-dissertation>"History Grad Student Writes Nation's Top Humanities Dissertation."</a> <img src="images/cgs-crop.jpg" style="width:700px; height:auto">
+excerpt: I was recently honored to receive the award from the Council of Graduate Schools/ProQuest for the distinguished dissertation in Humanities and the Fine Arts. Here is the write up from my alma mater -- <a href=https://www.news.virginia.edu/content/history-grad-student-writes-nations-top-humanities-dissertation>"History Grad Student Writes Nation's Top Humanities Dissertation."</a> 
 ---
 I was recently honored to receive the award from the Council of Graduate Schools/ProQuest for the distinguished dissertation in Humanities and the Fine Arts. Here is the write up from my alma mater: ["History Grad Student Writes Nation's Top Humanities Dissertation."](https://www.news.virginia.edu/content/history-grad-student-writes-nations-top-humanities-dissertation)
 

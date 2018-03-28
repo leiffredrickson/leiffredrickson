@@ -50,7 +50,7 @@ permalink: /projects/
 
   </details></blockquote>
 
-**&quot;The Riot Environment: Sanitation, Recreation and Pacification in the Wake of Baltimore&#39;s 1968 Uprising,&quot;**  _Baltimore Revisited: Rethinking and Remaking an American City_, Nicole King and Kate Drabinski, eds. (forthcoming from Rutgers University Press).
+**&quot;The Riot Environment: Sanitation, Recreation and Pacification in the Wake of Baltimore&#39;s 1968 Uprising,&quot;** _Baltimore Revisited: Rethinking and Remaking an American City_, Nicole King and Kate Drabinski, eds. (forthcoming from Rutgers University Press).
   <blockquote>
 
   How the city of Baltimore and the Department of Defense tried to change the environment of inner city youth in order to avert urban civil disturbances after the 1968 uprising in Baltimore.
@@ -106,9 +106,13 @@ permalink: /projects/
 ---
 ## Mapping, Data Visualization and Digital Humanities
 
-**American Panorama**
+**Enviro-History**
 
-From 2015 to 2016, I held a fellowship from the Mellon Foundation to help the University of Richmond's Digital Scholarship Lab produce ideas for the online digital atlas, [American Panorama](https://dsl.richmond.edu/panorama). With fellow Brent Cebul, I worked on conceptualizing and finding data for maps of urban renewal, public housing and highway building. These maps are still forthcoming. The extant American Panorama maps are amazing and award-winning.
+In March 2018, I launched a website, [Enviro-History](www.enviro-history.com) that will host visualizations and writings about environmental history, geared toward the public, educators and students. Currently the site includes a timeline and animated map [visualization](http://enviro-history.com/visualizations/mysis/) of "invasive" shrimp introductions, as well as essays on art and music as it relates to environmental history.
+
+**"Renewing Inequality," American Panorama**
+
+From 2015 to 2016, I held a fellowship from the Mellon Foundation to help the University of Richmond's Digital Scholarship Lab where I helped conceptualize and research a national map of urban renewal and its consequences. It has been published as "[Renewing Inequality](https://dsl.richmond.edu/panorama/renewal/)," part of the [American Panorama](https://dsl.richmond.edu/panorama) digital history atlas.
 
 **American Yawp**     
 I authored environmental history sections for three chapters of the _American Yawp_, an online, open-source, and subsequently award-winning, U.S. history textbook.
@@ -238,13 +242,14 @@ Native American History; History of American Energy and Power; Colonial Latin Am
 
 Creator and Developer, [Enviro-History](http://www.enviro-history.com)
 
-Project Developer, [American Panorama](https://dsl.richmond.edu/panorama), Digital Scholarship Lab, University of Richmond (2015-2016)
+Project Developer, "[Renewing Inequality](https://dsl.richmond.edu/panorama/renewal/)," American Panorama, Digital Scholarship Lab, University of Richmond (2015-2016)
 
 Environmental history author for the [American Yawp](http://www.americanyawp.com/index.html) (2013-2014)
 
 Project Manager, Geographic Database, [People of the Founding Era](http://pfe.rotunda.upress.virginia.edu/), Documents Compass, Virginia Endowment for the Humanities (2012)
 
 # Public Writing <a id="Public-Writing"></a>
+“[Back to Basics, or a Departure from Environmental Protections? History Lends Perspective](https://publiclab.org/notes/mlamadrid/12-05-2017/back-to-basics-or-a-departure-from-environmental-protections-history-lends-perspective),” *Public Lab Community Science Forum*, December 5, 2017
 
 &quot;[The Federal Agency that Few Americans Have Heard of and Which We All Should Need to Know](https://www.washingtonpost.com/news/made-by-history/wp/2017/09/28/the-federal-agency-that-few-americans-have-heard-of-and-which-we-all-need-to-know),&quot; _Washington Post_, September 28, 2017
 
@@ -260,19 +265,24 @@ Project Manager, Geographic Database, [People of the Founding Era](http://pfe.ro
 
 &quot;[The &#39;Depression Disease&#39;: What the United States&#39; First National Lead Poisoning Crisis Can Teach Us about the Flint Water Disaster](http://blog.historians.org/2016/03/the-depression-disease-what-the-united-states-first-national-lead-poisoning-crisis-can-teach-us-about-the-flint-water-disaster),&quot; _American Historical Association Today_, March 14, 2016
 
- &quot;[The Surprising Link Between Postwar Suburban Development and Today&#39;s Inner-city Lead Poisoning](http://www.theconversation.com/the-surprising-link-between-postwar-suburban-development-and-todays-inner-city-lead-poisoning-54453),&quot; _The Conversation_, February 25, 2016
+&quot;[The Surprising Link Between Postwar Suburban Development and Today&#39;s Inner-city Lead Poisoning](http://www.theconversation.com/the-surprising-link-between-postwar-suburban-development-and-todays-inner-city-lead-poisoning-54453),&quot; _The Conversation_, February 25, 2016
 
- &quot;[Urban Policy – Lessons from History](http://www.iasc-culture.org/THR/channels/Common\_Place/2014/11/urban-policy-part-3-lessons-from-history),&quot; _Common Place: The Anatomy and Art of Thriving Communities_, November 14, 2014
+&quot;[Urban Policy – Lessons from History](http://www.iasc-culture.org/THR/channels/Common\_Place/2014/11/urban-policy-part-3-lessons-from-history),&quot; _Common Place: The Anatomy and Art of Thriving Communities_, November 14, 2014
 
 &quot;[The Aliens Are Coming! Strange mussels, fish, plants, and diseases – and their clueless human helpers – could decimate Montana waters](https://missoulanews.bigskypress.com/missoula/the-aliens-are-coming/Content?oid=1432982),&quot; (cover feature) _Missoula Independent_, April 21, 2011.
 
 # Book Reviews
+Benjamin Hale, *The Wild and the Wicked: On Nature and Human Nature* in *Environmental History*, July 2018.
 
-[Review](http://www.jstor.org/stable/10.5323/jafriamerhist.99.4.0484?seq=1#page_scan_tab_contents) of Keith Wailoo's _How Cancer Crossed the Color Line_ in the _Journal of African-American History_, vol. 99, no. 4, Fall 2014, 484-486.
+Review essay: Gerald Markowitz and David Rosner, *Lead Wars: The Politics of Science and the Fate of America’s Children* in *H-EnviroHealth*, February 2018.
+
+Michael C. Mix, *Leaded: The Poisoning of Idaho’s Silver Valley* in *Environmental History* vol. 23, no. 1, January 2018.
+
+Keith Wailoo _How Cancer Crossed the Color Line_ in _Journal of African-American History_, vol. 99, no. 4, Fall 2014, 484-486.
 
 # Invited Talks
 
- &quot;The Age of Lead: Metropolitan Change, Environmental Health, and Urban Underdevelopment in Baltimore, 1900-2000,&quot; Environmental History Series, University of Kansas, 2016
+&quot;The Age of Lead: Metropolitan Change, Environmental Health, and Urban Underdevelopment in Baltimore, 1900-2000,&quot; Environmental History Series, University of Kansas, 2016
 
 &quot;Digital Humanities Maps and Public Engagement,&quot; Miller Center of Public Affairs Fellows Conference, University of Virginia (2016)
 
