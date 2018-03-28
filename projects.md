@@ -162,6 +162,8 @@ The Age of Lead: Metropolitan Change, Environmental Health, and Inner City Under
 
 # Journal Articles
 
+“History of US Presidential Assaults on Modern Environmental Health Protection,” *American Journal of Public Health* (forthcoming). [Lead author, with co-authorship by other members of the Environmental Data & Governance Initiative.]
+
 &quot;[From Ecocide to Eco-ally: Picloram, Herbicidal Warfare, and Invasive Species, 1963-2005](http://www.ingentaconnect.com/content/whp/ge/2014/00000007/00000001/art00008),&quot; in _Global Environment_, vol. 7, no. 1, 2014.
 
 &quot;[Bio-Invasions and Bio-Fixes: Mysid Shrimp Introductions in the Twentieth Century](http://www.ingentaconnect.com/content/whp/eh/2017/00000023/00000002/art00007),&quot; _Environment and History_ vol. 23, no.2, 2017.
