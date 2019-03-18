@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-permalink: /archive/
+permalink: /posts/
 ---
 <div>
 
